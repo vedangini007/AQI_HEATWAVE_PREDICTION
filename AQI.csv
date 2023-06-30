@@ -1,0 +1,421 @@
+District,Date,Sox,Nox,PM10,NH3,AQI
+"Nizamabad
+",1-Jan,6,22.4,61,,61
+"Nizamabad
+",1-Feb,6,22.4,61,,61
+"Nizamabad
+",1-Mar,5.9,22.2,66,,66
+"Nizamabad
+",1-Apr,5.9,21.8,70,,70
+"Nizamabad
+",1-May,5.9,22.6,47,,54
+"Nizamabad
+",1-Jun,5.9,22.3,64,,64
+"Nizamabad
+",1-Jul,5.7,22.5,59,,59
+"Nizamabad
+",1-Aug,5.6,22.4,60,,60
+"Nizamabad
+",1-Sep,5.8,23.1,64,,64
+"Nizamabad
+",1-Oct,6.2,23.6,48,,48
+"Nizamabad
+",1-Nov,5.6,25,56,,60
+"Nizamabad
+",1-Dec,5.7,24.6,62,,62
+"Nizamabad
+",1-Jan,5.5,24.3,64,,64
+"Nizamabad
+",1-Feb,5.6,24.9,61,,61
+"Nizamabad
+",1-Mar,5.6,24.4,6,,61
+"Nizamabad
+",1-Apr,5.6,23.4,62,,62
+"Nizamabad
+",1-May,5.5,25,64,,64
+"Nizamabad
+",1-Jun,5.7,26,64,,69
+"Nizamabad
+",1-Jul,5.4,25.6,64,,72
+"Nizamabad
+",1-Aug,4.8,24.4,65,,71
+"Nizamabad
+",1-Sep,4.4,23.5,63,,61
+"Nizamabad
+",1-Oct,4.8,25.2,64,,69
+"Nizamabad
+",1-Nov,4.6,24.7,62,,62
+"Nizamabad
+",1-Dec,5.4,25.9,63,,66
+"Nizamabad
+",1-Jan,5.5,27.3,60,10,64
+"Nizamabad
+",1-Feb,5.5,26.6,60,10,64
+"Nizamabad
+",1-Mar,,,,,666
+"Nizamabad
+",1-Apr,,,,,38
+"Nizamabad
+",1-May,,,,,50
+"Nizamabad
+",1-Jun,4.9,24.1,52,10,52
+"Nizamabad
+",1-Jul,5.2,25.8,63,10,63
+"Nizamabad
+",1-Aug,4.7,22.2,60,10,60
+"Nizamabad
+",1-Sep,5.4,24.8,60,10,62
+"Nizamabad
+",1-Oct,5.2,24.7,62,10,62
+"Nizamabad
+",1-Nov,6.1,25.9,62,10,63
+"Nizamabad
+",1-Dec,6,26.4,71,10,81
+"Nizamabad
+",1-Jan,5.8,24.7,68,15,69
+"Nizamabad
+",1-Feb,5.1,23.4,67,20,68
+"Nizamabad
+",1-Mar,5.7,24.8,66,20,66
+"Nizamabad
+",1-Apr,5.3,25.1,67,19,69
+"Nizamabad
+",1-May,6,26,60,17,41
+"Nizamabad
+",1-Jun,,,,,
+"Nizamabad
+",1-Jul,5.7,24.8,54,16,54
+"Nizamabad
+",1-Aug,5.3,22.4,45,15,45
+"Nizamabad
+",1-Sep,5,23.1,43,16,43
+"Nizamabad
+",1-Oct,6.2,27.3,59,17,59
+"Nizamabad
+",1-Nov,6.4,26.7,66,17,66
+"Nizamabad
+",1-Dec,5.8,25.5,57,14,57
+"Nizamabad
+",1-Jan,6.9,25.5,56,14,56
+"Nizamabad
+",1-Feb,7.5,27.5,59,15,59
+"Nizamabad
+",1-Mar,6.6,26.1,64,17,64
+"Nizamabad
+",1-Apr,7.8,24,58,16,58
+"Nizamabad
+",1-May,7.3,24.6,56,14,56
+"Nizamabad
+",1-Jun,6,23.4,52,15,54
+"Nizamabad
+",1-Jul,5.5,21.3,46,13,46
+"Nizamabad
+",1-Aug,6.7,23.3,52,14,53
+"Nizamabad
+",1-Sep,7.9,25,51,16,54
+"Nizamabad
+",1-Oct,8.6,27.4,61,18,63
+"Nizamabad
+",1-Nov,6.8,25,56,16,56
+"Nizamabad
+",1-Dec,7.5,22.6,60,17,59
+Adilabad,1-Jan,6.1,21.3,66,,66
+Adilabad,1-Feb,6.2,21.5,67,,67
+Adilabad,1-Mar,6,21.3,70,,70
+Adilabad,1-Apr,6,22.1,74,,74
+Adilabad,1-May,5.9,22.4,74,,74
+Adilabad,1-Jun,5.8,22.4,69,,69
+Adilabad,1-Jul,5.9,22.4,64,,64
+Adilabad,1-Aug,5.7,22.4,64,,64
+Adilabad,1-Sep,5.7,23.9,61,,62
+Adilabad,1-Oct,5.9,25.8,67,,67
+Adilabad,1-Nov,6.3,26.8,71,,75
+Adilabad,1-Dec,5.7,24.9,81,,81
+Adilabad,1-Jan,5.9,24.8,74,,76
+Adilabad,1-Feb,6,24.8,75,,77
+Adilabad,1-Mar,5.7,24.5,76,,79
+Adilabad,1-Apr,5.7,24.3,77,,78
+Adilabad,1-May,5.2,24.8,80,,80
+Adilabad,1-Jun,5.4,25.7,75,,77
+Adilabad,1-Jul,5.5,26,76,,78
+Adilabad,1-Aug,4.7,24.3,77,,79
+Adilabad,1-Sep,4.4,23.5,57,,73
+Adilabad,1-Oct,4.7,24.9,72,,72
+Adilabad,1-Nov,4.5,24.6,75,,79
+Adilabad,1-Dec,5.2,25.7,73,,73
+Adilabad,1-Jan,5.8,27.6,78,10,78
+Adilabad,1-Feb,5.6,26.6,82,10,82
+Adilabad,1-Mar,4.7,22.2,71,10,71
+Adilabad,1-Apr,2,15.8,52,10,52
+Adilabad,1-May,,,,,
+Adilabad,1-Jun,4.7,24.2,75,10,74
+Adilabad,1-Jul,5.5,24,74,10,74
+Adilabad,1-Aug,4.6,21.5,72,10,72
+Adilabad,1-Sep,5.3,23.7,72,10,72
+Adilabad,1-Oct,5.3,23.8,72,10,72
+Adilabad,1-Nov,,,,,
+Adilabad,1-Dec,,,,,
+Adilabad,1-Jan,,,,,
+Adilabad,1-Feb,5.1,23,62,20,62
+Adilabad,1-Mar,6.6,25.2,73,18,73
+Adilabad,1-Apr,6.1,25.4,74,19,74
+Adilabad,1-May,6,23,67,17,67
+Adilabad,1-Jun,,,,,
+Adilabad,1-Jul,,,,,
+Adilabad,1-Aug,,,,,
+Adilabad,1-Sep,,,,,
+Adilabad,1-Oct,,,,,
+Adilabad,1-Nov,,,,,
+Adilabad,1-Dec,,,,,
+Adilabad,1-Jan,,,,,
+Adilabad,1-Feb,,,,,
+Adilabad,1-Mar,8.2,25.6,56,14,56
+Adilabad,1-Apr,9.5,28.2,65,18,65
+Adilabad,1-May,7.9,26.5,60,14,60
+Adilabad,1-Jun,8.6,25,57,16,58
+Adilabad,1-Jul,6.8,23.1,48,15,48
+Adilabad,1-Aug,8.5,26.2,56,17,56
+Adilabad,1-Sep,9.7,27.5,54,19,56
+Adilabad,1-Oct,10.9,29.3,62,21,65
+Adilabad,1-Nov,7.5,26.4,58,18,58
+Adilabad,1-Dec,9.5,25.3,62,20,62
+Warangal Urban,1-Jan,8.3,26.2,127,22,117
+Warangal Urban,1-Feb,6.3,36.8,92,52,91
+Warangal Urban,1-Mar,7.3,32.8,80,60,80
+Warangal Urban,1-Apr,8.4,36.9,82,48,82
+Warangal Urban,1-May,8.4,39.4,84,47,84
+Warangal Urban,1-Jun,16.5,28.4,86,58,86
+Warangal Urban,1-Jul,8.6,33.9,73,55,73
+Warangal Urban,1-Aug,8.8,36.9,79,52,79
+Warangal Urban,1-Sep,8.7,36.3,81,52,81
+Warangal Urban,1-Oct,8.9,39.2,86,57,86
+Warangal Urban,1-Nov,10.2,45.1,98,52,96
+Warangal Urban,1-Dec,10,43.2,86,58,86
+Warangal Urban,1-Jan,10.1,51.2,88,64,88
+Warangal Urban,1-Feb,10,56.9,90,63,90
+Warangal Urban,1-Mar,10.1,61.4,90,67,90
+Warangal Urban,1-Apr,10.1,56.3,94,70,94
+Warangal Urban,1-May,9.6,55.7,92,70,92
+Warangal Urban,1-Jun,8.5,46.8,88,64,88
+Warangal Urban,1-Jul,8.4,46.4,89,66,89
+Warangal Urban,1-Aug,8,45,82,68,82
+Warangal Urban,1-Sep,7.9,48.9,76,64,76
+Warangal Urban,1-Oct,7.3,50.9,92,63,91
+Warangal Urban,1-Nov,7,50,88,64,88
+Warangal Urban,1-Dec,6.5,52,90,72,90
+Warangal Urban,1-Jan,6.1,48.3,32,63,92
+Warangal Urban,1-Feb,6.1,50.1,88,73,88
+Warangal Urban,1-Mar,5.6,38.6,65,46,65
+Warangal Urban,1-Apr,6.8,30.1,16,10,38
+Warangal Urban,1-May,5.9,33.5,29,27,41
+Warangal Urban,1-Jun,6.8,31.4,33,31,42
+Warangal Urban,1-Jul,8.9,44.3,23,32,57
+Warangal Urban,1-Aug,8,45,67,33,67
+Warangal Urban,1-Sep,6.3,38.9,30,28,51
+Warangal Urban,1-Oct,6.9,36.5,54,33,59
+Warangal Urban,1-Nov,6.8,59,84,70,85
+Warangal Urban,1-Dec,7.9,37.5,59,40,59
+Warangal Urban,1-Jan,6.7,45,78,68,78
+Warangal Urban,1-Feb,6.8,46.4,85,71,85
+Warangal Urban,1-Mar,7.7,37.2,47,41,57
+Warangal Urban,1-Apr,6.3,33.2,,41,58
+Warangal Urban,1-May,5.7,32.6,57,30,43
+Warangal Urban,1-Jun,6.6,32,31,28,44
+Warangal Urban,1-Jul,5.2,47.4,32,42,86
+Warangal Urban,1-Aug,4.4,28.7,87,42,40
+Warangal Urban,1-Sep,6.4,37.6,37,43,64
+Warangal Urban,1-Oct,5.8,32.3,64,42,49
+Warangal Urban,1-Nov,5,26,48,36,58
+Warangal Urban,1-Dec,5.5,30.9,58,36,55
+Warangal Urban,1-Jan,4.8,28.9,55,34,58
+Warangal Urban,1-Feb,6,27.2,63,39,64
+Warangal Urban,1-Mar,5.7,26.4,49,39,49
+Warangal Urban,1-Apr,6,25.4,66,40,66
+Warangal Urban,1-May,6,28,53,40,54
+Warangal Urban,1-Jun,5.8,29.5,72,39,72
+Warangal Urban,1-Jul,6.4,29.5,38,37,40
+Warangal Urban,1-Aug,5.5,28.9,43,25,43
+Warangal Urban,1-Sep,6,27.9,39,31,41
+Warangal Urban,1-Oct,5,27.8,63,39,64
+Warangal Urban,1-Nov,4.4,24,49,40,49
+Warangal Urban,1-Dec,4.8,25.4,68,38,116
+Warangal  Rural,1-Jan,7,28.5,97,26,94
+Warangal  Rural,1-Feb,7,39.1,98,59,96
+Warangal  Rural,1-Mar,7.1,32,80,58,79
+Warangal  Rural,1-Apr,8.2,36.3,82,45,83
+Warangal  Rural,1-May,8.5,41.2,81,53,81
+Warangal  Rural,1-Jun,8.7,38.2,84,61,84
+Warangal  Rural,1-Jul,36.1,38.8,70,57,70
+Warangal  Rural,1-Aug,8.6,35.7,73,58,73
+Warangal  Rural,1-Sep,86,38,80,52,80
+Warangal  Rural,1-Oct,91,38.6,89,57,89
+Warangal  Rural,1-Nov,9.6,46.7,96,52,94
+Warangal  Rural,1-Dec,9.5,45.7,88,58,88
+Warangal  Rural,1-Jan,10.3,54.5,91,68,91
+Warangal  Rural,1-Feb,10.1,56,91,69,91
+Warangal  Rural,1-Mar,10.2,54.6,92,68,92
+Warangal  Rural,1-Apr,10.1,54,89,70,89
+Warangal  Rural,1-May,9.5,55.2,93,70,93
+Warangal  Rural,1-Jun,8.6,47.6,86,69,86
+Warangal  Rural,1-Jul,8.5,458,87,57,87
+Warangal  Rural,1-Aug,8.4,47.3,80,67,80
+Warangal  Rural,1-Sep,7.9,46.9,73,61,73
+Warangal  Rural,1-Oct,7.4,48.4,85,60,85
+Warangal  Rural,1-Nov,7.1,50.9,91,63,91
+Warangal  Rural,1-Dec,6.5,50.5,87,66,87
+Warangal  Rural,1-Jan,6,49.2,89,64,89
+Warangal  Rural,1-Feb,6.2,51.1,88,70,88
+Warangal  Rural,1-Mar,5.9,38.1,74,54,74
+Warangal  Rural,1-Apr,6,38,26,20,41
+Warangal  Rural,1-May,6.8,39.3,58,30,65
+Warangal  Rural,1-Jun,7.1,32.2,56,34,58
+Warangal  Rural,1-Jul,8.6,44.9,48,31,67
+Warangal  Rural,1-Aug,7,45,49,33,61
+Warangal  Rural,1-Sep,7.2,40.7,39,31,55
+Warangal  Rural,1-Oct,7.2,38.1,54,33,61
+Warangal  Rural,1-Nov,6.8,53.5,93,63,92
+Warangal  Rural,1-Dec,7.4,35.2,93,36,91
+Warangal  Rural,1-Jan,6.4,42.2,81,71,81
+Warangal  Rural,1-Feb,6.9,47.4,88,69,88
+Warangal  Rural,1-Mar,7.7,36.3,75,41,75
+Warangal  Rural,1-Apr,8.9,34,71,49,71
+Warangal  Rural,1-May,8.5,32,45,45,51
+Warangal  Rural,1-Jun,8,30.8,83,43,81
+Warangal  Rural,1-Jul,5.8,28.7,57,46,57
+Warangal  Rural,1-Aug,6.8,32.7,60,42,60
+Warangal  Rural,1-Sep,7.3,32.7,55,44,55
+Warangal  Rural,1-Oct,8.1,31.2,54,45,64
+Warangal  Rural,1-Nov,8.3,32.5,65,37,65
+Warangal  Rural,1-Dec,7.3,34.3,69,37,69
+Warangal  Rural,1-Jan,7.1,31,73,36,73
+Warangal  Rural,1-Feb,8.4,31,73,49,
+Warangal  Rural,1-Mar,8,33.1,76,39,73
+Warangal  Rural,1-Apr,5.7,34.2,60,40,76
+Warangal  Rural,1-May,6,34.2,77,40,6077
+Warangal  Rural,1-Jun,5.8,34.7,85,39,85
+Warangal  Rural,1-Jul,6.4,30.2,47,36,
+Warangal  Rural,1-Aug,5.5,26.6,56,23,47
+Warangal  Rural,1-Sep,6,29.9,48,27,56
+Warangal  Rural,1-Oct,5,32.2,63,39,48
+Warangal  Rural,1-Nov,4.4,35,95,37,64
+Warangal  Rural,1-Dec,4.8,32.6,95,35,94
+Khammam,1-Jan,8.1,28,67,25,94
+Khammam,1-Feb,7.2,38.6,66,62,68
+Khammam,1-Mar,8.6,31.6,71,55,71
+Khammam,1-Apr,8.5,36,77,49,77
+Khammam,1-May,8.8,40.1,77,58,77
+Khammam,1-Jun,8.6,37.9,83,57,83
+Khammam,1-Jul,8.7,36.8,75,56,75
+Khammam,1-Aug,8.9,36.4,79,51,79
+Khammam,1-Sep,9.1,38.7,84,54,84
+Khammam,1-Oct,9.7,37.9,85,53,85
+Khammam,1-Nov,10.6,44.3,92,54,92
+Khammam,1-Dec,10,41.8,88,63,88
+Khammam,1-Jan,10.6,55.1,107,62,94
+Khammam,1-Feb,9.2,57.8,103,69,90
+Khammam,1-Mar,10.2,54.6,105,74,91
+Khammam,1-Apr,9.9,54.8,113,79,90
+Khammam,1-May,8.7,53.6,105,76,88
+Khammam,1-Jun,8.6,46.9,100,73,81
+Khammam,1-Jul,8.1,49.8,100,72,77
+Khammam,1-Aug,8.4,48.5,102,70,84
+Khammam,1-Sep,8,49.7,97,63,78
+Khammam,1-Oct,7.1,50.8,104,71,86
+Khammam,1-Nov,6.9,52,107,70,85
+Khammam,1-Dec,6.5,48.9,119,77,84
+Khammam,1-Jan,6,49.1,88,66,88
+Khammam,1-Feb,6.4,49,84,67,84
+Khammam,1-Mar,6.1,45,83,65,83
+Khammam,1-Apr,6,20,80,20,80
+Khammam,1-May,6.5,47.1,54,35,63
+Khammam,1-Jun,8.3,37.2,43,45,48
+Khammam,1-Jul,7.9,45.1,43,37,70
+Khammam,1-Aug,8,26,33,33,37
+Khammam,1-Sep,7.1,38.6,37,40,52
+Khammam,1-Oct,7.4,39.9,49,40,62
+Khammam,1-Nov,6.3,49.7,82,67,83
+Khammam,1-Dec,7.4,38.6,98,41,95
+Khammam,1-Jan,6.8,47,101,67,100
+Khammam,1-Feb,6.8,38,84,68,84
+Khammam,1-Mar,7.7,36.2,65,43,68
+Khammam,1-Apr,7.9,27.6,54,46,54
+Khammam,1-May,,34.1,,,
+Khammam,1-Jun,8.4,35.9,90,38,88
+Khammam,1-Jul,5.5,35.9,69,60,69
+Khammam,1-Aug,6,34,67,60,67
+Khammam,1-Sep,9.2,31,85,48,85
+Khammam,1-Oct,7.4,31,61,48,61
+Khammam,1-Nov,7.5,37.6,86,53,86
+Khammam,1-Dec,7,41.6,78,55,78
+Khammam,1-Jan,6.8,29.8,80,45,80
+Khammam,1-Feb,7.6,30.7,78,48,78
+Khammam,1-Mar,7.8,51.5,76,65,77
+Khammam,1-Apr,7.3,44.6,78,65,79
+Khammam,1-May,7.1,41,77,66,77
+Khammam,1-Jun,7.4,45.4,81,67,81
+Khammam,1-Jul,7.4,45.6,73,62,73
+Khammam,1-Aug,7.4,41.5,56,44,58
+Khammam,1-Sep,7,31.2,41,38,42
+Khammam,1-Oct,7.4,30.9,57,39,57
+Khammam,1-Nov,8,30,78,35,78
+Khammam,1-Dec,7.1,29.1,112,33,115
+ Karimnagar ,1-Jan,7.9,98.5,117,25,111
+ Karimnagar ,1-Feb,6.5,45.8,88,54,87
+ Karimnagar ,1-Mar,7.4,36.3,89,62,89
+ Karimnagar ,1-Apr,8.7,40,102,53,100
+ Karimnagar ,1-May,8.8,41.9,100,60,100
+ Karimnagar ,1-Jun,9.1,39,101,61,100
+ Karimnagar ,1-Jul,8.7,33.6,89,59,89
+ Karimnagar ,1-Aug,7.6,38.9,91,66,91
+ Karimnagar ,1-Sep,9.1,40.2,101,53,100
+ Karimnagar ,1-Oct,9,34,98,56,98
+ Karimnagar ,1-Nov,9.5,44.2,110,54,106
+ Karimnagar ,1-Dec,9.3,40.2,100,56,100
+ Karimnagar ,1-Jan,10.7,54.4,107,62,104
+ Karimnagar ,1-Feb,10.7,58.4,103,64,102
+ Karimnagar ,1-Mar,10.4,57.8,105,70,103
+ Karimnagar ,1-Apr,10.4,61.2,113,75,109
+ Karimnagar ,1-May,10.2,58.9,105,71,103
+ Karimnagar ,1-Jun,9.1,5.02,100,66,99
+ Karimnagar ,1-Jul,9.1,47.8,100,63,100
+ Karimnagar ,1-Aug,8.5,51.8,102,64,99
+ Karimnagar ,1-Sep,8,51.2,97,67,97
+ Karimnagar ,1-Oct,7.2,50.1,104,71,102
+ Karimnagar ,1-Nov,7.1,52.4,102,70,105
+ Karimnagar ,1-Dec,6.9,56.2,96,74,112
+ Karimnagar ,1-Jan,6.1,52.5,116,67,111
+ Karimnagar ,1-Feb,6.4,56.3,121,75,114
+ Karimnagar ,1-Mar,6.5,49.3,115,65,110
+ Karimnagar ,1-Apr,7,38,33,20,39
+ Karimnagar ,1-May,7.8,45.2,72,33,72
+ Karimnagar ,1-Jun,8.4,37.1,55,36,52
+ Karimnagar ,1-Jul,9,48.1,124,34,114
+ Karimnagar ,1-Aug,8,43,70,37,70
+ Karimnagar ,1-Sep,7.7,43.3,99,38,96
+ Karimnagar ,1-Oct,7.8,38.9,156,38,137
+ Karimnagar ,1-Nov,7,64.8,120,75,114
+ Karimnagar ,1-Dec,8,45.6,114,48,108
+ Karimnagar ,1-Jan,7.1,56.6,114,72,110
+ Karimnagar ,1-Feb,7.1,47,116,72,110
+ Karimnagar ,1-Mar,8.2,41.7,65,46,69
+ Karimnagar ,1-Apr,8.2,40.7,72,45,73
+ Karimnagar ,1-May,8.3,42.4,68,42,68
+ Karimnagar ,1-Jun,7.9,39.7,69,40,72
+ Karimnagar ,1-Jul,6.6,32.4,57,26,57
+ Karimnagar ,1-Aug,6.9,32.4,64,22,64
+ Karimnagar ,1-Sep,6.7,34.7,66,28,66
+ Karimnagar ,1-Oct,7.2,35.3,68,25,68
+ Karimnagar ,1-Nov,6.8,34.2,73,26,73
+ Karimnagar ,1-Dec,7.9,30.9,83,32,82
+ Karimnagar ,1-Jan,7.8,30.3,82,32,82
+ Karimnagar ,1-Feb,6.4,27.9,92,22,90
+ Karimnagar ,1-Mar,6.8,26.7,99,23,96
+ Karimnagar ,1-Apr,8,28.4,70,24,70
+ Karimnagar ,1-May,6.3,26.8,78,20,76
+ Karimnagar ,1-Jun,6.4,32,92,31,89
+ Karimnagar ,1-Jul,7,29.3,69,33,69
+ Karimnagar ,1-Aug,6,27.4,55,19,55
+ Karimnagar ,1-Sep,6.7,29.9,58,20,58
+ Karimnagar ,1-Oct,6.7,39.6,62,29,63
+ Karimnagar ,1-Nov,6.2,26.1,103,22,101
+ Karimnagar ,1-Dec,6.2,32.7,139,35,126
